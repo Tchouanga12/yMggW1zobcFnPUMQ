@@ -12,3 +12,8 @@ The minimal number of features that can be used while maintaining a good predict
 - The order delevery time
 - The price at which the order was bought
 - The use of the delivery app by the customer
+
+The recommended questions to remove in your survey are;
+
+- I ordered everything I wanted to order
+- I am satisfied with my courier
